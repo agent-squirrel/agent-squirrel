@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @agent-squirrel
 - 👀 I’m interested in Linux and Open Source
-- 🌱 I’m currently learning Python and Perl (Slowly)
+- 🌱 I’m currently learning Python
 - 📫 How to reach me: [email](mailto:aheathcote@linux.com)
 - :clipboard: I manage the development team at Launtel
 
