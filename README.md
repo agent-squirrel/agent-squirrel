@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @agent-squirrel
+- 👋 Hi, I’m agent-squirrel
 - 👀 I’m interested in Linux and Open Source
 - :penguin: I work with Linux a lot
 - 📫 How to reach me: [email](mailto:aheathcote@linux.com)
