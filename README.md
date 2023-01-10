@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Adam Heathcote
-- 👀 I’m interested in Linux and Open Source
+- 👀 I’m interested in Open Source software
 - :penguin: I work with Linux a lot
 - 📫 How to reach me: [email](mailto:aheathcote@linux.com)
 
